@@ -2,9 +2,10 @@
 
 Unity를 사용하여 제작한 3D 생존 게임입니다.  
 플레이어는 자원을 수집하고, 적과 전투하며, 아이템을 활용해 생존을 이어갑니다.  
-**불, 날씨, 사운드 등 환경 요소까지 구현하여 몰입감을 강화했습니다.**
-![Animation](https://github.com/user-attachments/assets/f318b468-e3d3-4c13-8dde-af295dcd7c80)
-
+**불, 날씨, 사운드 등 환경 요소까지 구현하여 몰입감을 강화했습니다.**  
+  
+![Animation](https://github.com/user-attachments/assets/f318b468-e3d3-4c13-8dde-af295dcd7c80)  
+  
 ---
 
 ## 📌 주요 기능
